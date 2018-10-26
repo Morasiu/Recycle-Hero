@@ -6,6 +6,6 @@ HackYeah 2017 - NullPointException Team
 
 ![All](https://github.com/Morasiu/Recycle-Hero/blob/master/scr/all_in_one.JPG)
 
-Created on HackYeah 2017 hacktahon by Hubert Morawski, Aleksandra Torbe, Maciej Romanowski. 
+Created on HackYeah 2017 hacktahon by Hubert Morawski, Aleksandra Torbe, Maciej Romanowski.
 
 *Apk file "Recycle hero" is packed to zip*
